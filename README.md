@@ -1,1 +1,2 @@
-# GRIP-Task-4--Sep22
+# Data Analytics Visualization
+Exploratory Data Analysis has been done in order to understand Global Terrorism: Terror Hot Zones 
